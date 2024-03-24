@@ -15,7 +15,7 @@ footer {
   padding: 20px;
 }
 .jumbotron {
-  background-color: #c2dfea; /* Example color */
+  background-color: #c2dfea; 
 }
 
 .navbar {
@@ -44,13 +44,13 @@ footer {
 .footer-link {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #007bff; /* Blue color */
-  color: #fff; /* White text color */
+  background-color: #007bff; 
+  color: #fff; 
   border-radius: 5px;
-  text-decoration: none; /* Remove underline */
+  text-decoration: none; 
 }
 
 .footer-link:hover {
-  background-color: #0056b3; /* Darker blue on hover */
+  background-color: #0056b3; 
 }
 
