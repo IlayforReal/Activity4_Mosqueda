@@ -1,0 +1,56 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+footer {
+  background-color: #ecc2c2;
+  padding: 25px;
+}
+
+.w3-third .w3-light-blue {
+  background-color: #add8e6;
+  color: #000;
+  border-radius: 15px;
+  padding: 20px;
+}
+.jumbotron {
+  background-color: #c2dfea; /* Example color */
+}
+
+.navbar {
+  margin-bottom: 0;
+  background-color: #79c0ef;
+  z-index: 9999;
+  border: 0;
+  font-size: 12px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 4px;
+  border-radius: 0;
+  font-family: Montserrat, sans-serif;
+}
+.navbar li a, .navbar .navbar-brand {
+  color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: #f4511e !important;
+  background-color: #fff !important;
+}
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+  color: #fff !important;
+}
+
+.footer-link {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #007bff; /* Blue color */
+  color: #fff; /* White text color */
+  border-radius: 5px;
+  text-decoration: none; /* Remove underline */
+}
+
+.footer-link:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
